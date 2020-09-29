@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55680951-52fd-49cd-9dfe-eea0a766164f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="ExcludedPharFiles">
+    <excludedPaths>
+      <path value="$PROJECT_DIR$/phpunit.phar/" />
+    </excludedPaths>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3 (1)">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1i3a5KxIokyj981aQ7LEioQJIp5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.jetbrains.php.phpunit.codeGeneration.PhpNewTestDialog.defaultLibrary" value="PHPUnit" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/phpunit.phar" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="php.test.frameworks.configurable" />
+  </component>
+  <component name="RunManager" selected="PHPUnit.userTest.testSetId">
+    <configuration name="dishesTest.testGetDish" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="dishesTest" file="$PROJECT_DIR$/tests/dishesTest.php" method="testGetDish" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="userTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="userTest" file="$PROJECT_DIR$/tests/userTest.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="userTest.testGetId" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="userTest" file="$PROJECT_DIR$/tests/userTest.php" method="testGetId" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="userTest.testSetId" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="userTest" file="$PROJECT_DIR$/tests/userTest.php" method="testSetId" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="user.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/user.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.userTest.testSetId" />
+        <item itemvalue="PHPUnit.userTest" />
+        <item itemvalue="PHPUnit.userTest.testGetId" />
+        <item itemvalue="PHP Script.user.php" />
+        <item itemvalue="PHPUnit.dishesTest.testGetDish" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55680951-52fd-49cd-9dfe-eea0a766164f" name="Default Changelist" comment="" />
+      <created>1601138545545</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601138545545</updated>
+      <workItem from="1601138546917" duration="11872000" />
+      <workItem from="1601159902369" duration="506000" />
+      <workItem from="1601228352516" duration="1376000" />
+      <workItem from="1601387221864" duration="3382000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TerminalProjectNonSharedOptionsProvider">
+    <option name="shellPath" value="C:\xampp\php\php.exe" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="436" y="82" key="#CLI_Interpreters" timestamp="1601229081296">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="436" y="82" key="#CLI_Interpreters/0.0.1920.1030@0.0.1920.1030" timestamp="1601229081296" />
+    <state x="686" y="207" key="FileChooserDialogImpl" timestamp="1601148758621">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="686" y="207" key="FileChooserDialogImpl/0.0.1920.1030@0.0.1920.1030" timestamp="1601148758621" />
+    <state width="424" height="781" key="GridCell.Tab.0.bottom" timestamp="1601391940541">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state width="424" height="781" key="GridCell.Tab.0.bottom/0.0.1920.1030@0.0.1920.1030" timestamp="1601391940541" />
+    <state width="424" height="781" key="GridCell.Tab.0.center" timestamp="1601391940541">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state width="424" height="781" key="GridCell.Tab.0.center/0.0.1920.1030@0.0.1920.1030" timestamp="1601391940541" />
+    <state width="424" height="781" key="GridCell.Tab.0.left" timestamp="1601391940541">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state width="424" height="781" key="GridCell.Tab.0.left/0.0.1920.1030@0.0.1920.1030" timestamp="1601391940540" />
+    <state width="424" height="781" key="GridCell.Tab.0.right" timestamp="1601391940541">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state width="424" height="781" key="GridCell.Tab.0.right/0.0.1920.1030@0.0.1920.1030" timestamp="1601391940541" />
+    <state x="748" y="177" key="NewPhpClassDialog" timestamp="1601158852439">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="748" y="177" key="NewPhpClassDialog/0.0.1920.1030@0.0.1920.1030" timestamp="1601158852439" />
+    <state x="749" y="417" key="NewPhpFileDialog" timestamp="1601387321409">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="749" y="417" key="NewPhpFileDialog/0.0.1920.1030@0.0.1920.1030" timestamp="1601387321409" />
+    <state x="343" y="54" key="SettingsEditor" timestamp="1601229132868">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="343" y="54" key="SettingsEditor/0.0.1920.1030@0.0.1920.1030" timestamp="1601229132868" />
+    <state x="655" y="195" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1601388444945">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="655" y="195" key="com.jetbrains.php.test.PhpNewTestDialog/0.0.1920.1030@0.0.1920.1030" timestamp="1601388444945" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/tests/restaurantTest.php</url>
+          <line>21</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
